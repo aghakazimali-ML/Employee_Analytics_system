@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+seaborn
+How to use this file
+If you or a recruiter wants to run your project on a new computer, they simply open the terminal in your project folder and type:
+
+pip install -r requirements.txt
+
+Why these specific libraries?
+pandas: Used for all your data loading, cleaning, and grouping (Phases 1–7).
+
+numpy: Used for handling numerical operations and NaN values during cleaning (Phase 4).
+
+matplotlib: The foundation for all your charts and for saving your .png files (Phase 8).
+
+seaborn: Used to make your professional visualizations like the boxplots and heatmaps (Phases 5 & 8).
